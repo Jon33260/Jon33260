@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bonjour et bienvenue sur mon profil Github 👋. Moi c'est Jonathan, je suis développeur web et j'ai étudié à la Wild Code School.
 
 <!--
 **Jon33260/Jon33260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
