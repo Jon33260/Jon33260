@@ -17,6 +17,20 @@ Version Control
 
 <img width="68" height="28" alt="image" src="https://github.com/user-attachments/assets/fe62199c-50bb-4b8a-973d-bbcab2b4dd22" /> <img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/2c256c92-c458-4bd2-bddb-df826ee76135" />
 
+Design
+
+<img width="87" height="28" alt="image" src="https://github.com/user-attachments/assets/ee350413-d340-449b-93d6-ede1b2b8497d" /> <img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/62ace5a0-0318-430a-9846-9bca0465690e" />
+
+Autre
+
+<img width="191" height="28" alt="image" src="https://github.com/user-attachments/assets/3ceb3738-822f-4a4d-9c93-06b3a53d3239" /> <img width="106" height="28" alt="image" src="https://github.com/user-attachments/assets/543604a8-849e-4751-bae9-db26128c73a9" /> <img width="144" height="28" alt="image" src="https://github.com/user-attachments/assets/8e2e53f3-670a-4bfa-88fd-e90d775daa88" /> <img width="113" height="28" alt="image" src="https://github.com/user-attachments/assets/31d674d4-1081-4887-8749-6a71aec43aa9" />
+
+
+
+
+
+
+
 
 
 
